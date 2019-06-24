@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  nodejsapp:
+    build: .
+    #command: npm run dev
+    command: npm run build
+    command: npm run prod 
+    ports: 
+      - "8080:8080"
+
+    volumes:
+      - .:/usr/nodejsapp

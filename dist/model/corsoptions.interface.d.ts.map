@@ -1,0 +1,1 @@
+{"version":3,"file":"corsoptions.interface.d.ts","sourceRoot":"","sources":["../../src/model/corsoptions.interface.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,WAAW,YAAY;IACjC,MAAM,EAAE,KAAK,CAAC,MAAM,CAAC,GAAG,MAAM,CAAC;IAC/B,OAAO,EAAE,MAAM,CAAC;IAChB,iBAAiB,EAAE,OAAO,CAAC;IAC3B,oBAAoB,EAAE,MAAM,CAAC;CAChC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"cors.config.d.ts","sourceRoot":"","sources":["../../src/config/cors.config.ts"],"names":[],"mappings":"AACA,OAAO,YAAY,MAAM,iCAAiC,CAAC;AAE3D,MAAM,CAAC,OAAO,OAAO,UAAU;IAC3B,gBAAuB,OAAO,EAAE,YAAY,CAK1C;CACL"}

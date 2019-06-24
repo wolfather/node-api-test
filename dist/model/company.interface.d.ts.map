@@ -1,0 +1,1 @@
+{"version":3,"file":"company.interface.d.ts","sourceRoot":"","sources":["../../src/model/company.interface.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,WAAW,QAAQ;IAC7B,IAAI,EAAE,MAAM,CAAC;IACb,WAAW,EAAE,MAAM,CAAC;IACpB,EAAE,EAAE,MAAM,CAAC;CACd"}
