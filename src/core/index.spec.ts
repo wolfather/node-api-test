@@ -14,8 +14,4 @@ describe('Coreapp', (async() => {
     it('should have config method', (async() => {
         await assert.isFunction(app['config']);
     }));
-    
-    it('should have route method', (async() => {
-        await assert.isFunction(app['route']);
-    }));
 }));

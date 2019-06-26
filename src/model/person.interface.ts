@@ -6,7 +6,7 @@ import Icompany from "./company.interface";
  * @author Israel <so.israelweb@gmail.com>
  * @version 1.0.0
  */
-export default interface Iperson {
+export default interface Iperson extends Icompany{
   /**
    * id de pessoa
    */
