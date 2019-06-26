@@ -113,18 +113,3 @@ O resultado esperado por navegador ou por POSTMAN é um json da seguinte forma:
     }
 ]
 ```
-
-## TODO
-
-## Exibir uma lista com os dados:
-
-- 1. [x] Os websites de todos os usuários
-- 2. [x] O Nome, email e a empresa em que trabalha (em ordem alfabética).
-- 3. [x] Mostrar todos os usuários que no endereço contem a palavra ```suite```
-- 4. [ ] Salvar logs de todas interações no elasticsearch
-- 5. [x] EXTRA: Criar test unitário para validar os itens a cima.
-
-## Considerações sobre requisitos
-
-- Não ficou claro se os websites dos usuários mostrados, seriam apenas os filtrados por pelo endereço, ou para todos os usuários da lista;
-- Não ficou claro quais os critérios seriam levados em conta na ordenação alfabética. Tive dúvidas entre ordenar por nome, email e empresa, ou apenas ordenar por empresa;
