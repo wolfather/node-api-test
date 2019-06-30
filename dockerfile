@@ -1,14 +1,12 @@
 FROM node:10-alpine
 
-WORKDIR /usr/nodejsapp
+WORKDIR /nodejsapp
 
 COPY package*.json ./
-RUN npm i
-RUN npm run dev
-
 
 COPY . .
 
-EXPOSE 8080
+RUN npm i
+RUN npm run dev
 
-# CMD ["node", "run", "build"]
+EXPOSE 8080
